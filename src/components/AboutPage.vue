@@ -3,7 +3,7 @@
 		<header>
 <nav>
 	<ul>
-		<li><router-link to="/home">Главная не главная</router-link></li>
+		<li><router-link to="/home">Главная</router-link></li>
 		<li><router-link to="/about">О нас</router-link></li>
 		<li><router-link to="/contact">Контакты</router-link></li>
 		<li><router-link to="/faq">FAQ</router-link></li>
